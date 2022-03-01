@@ -1,0 +1,487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent ballad of patient Grissel. To the tune of, The brides good-morrow.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1664?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03173</idno>
+            <idno type="STC">Wing E3792A</idno>
+            <idno type="STC">ESTC R176850</idno>
+            <idno type="EEBO-CITATION">47012433</idno>
+            <idno type="OCLC">ocm 47012433</idno>
+            <idno type="VID">174402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174402)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2687:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent ballad of patient Grissel. To the tune of, The brides good-morrow.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and W. Gilbertson.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[between 1658 and 1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Right half sheet contains "The second part to the same tune."</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174402:1" rendition="simple:additions"/>
+            <head>An Excellent Ballad of Patient Griſſel.</head>
+            <head type="sub">To <hi>the Tune of,</hi> The Brides Good-Morrow.</head>
+            <p>
+               <figure/>
+            </p>
+            <l>
+               <hi>A</hi> Noble Marqueſs</l>
+            <l>As he did ride a hunting</l>
+            <l>hard hy a forreſt ſide,</l>
+            <l>A fair and comely Maiden</l>
+            <l>As ſhe did ſit a ſpinning</l>
+            <l>his gentle eye eſpied,</l>
+            <l>Moſt fair and lovely</l>
+            <l>And of a co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grace was ſhe,</l>
+            <l>although in ſimple attire,</l>
+            <l>She ſung full ſweetle</l>
+            <l>VVith pleaſant voyce melodiouſly,</l>
+            <l>which ſet the Lords heart on fire:</l>
+            <l>The more he lovd the more he might,</l>
+            <l>Beauty bred his hearts delight</l>
+            <l>And to this Damſel</l>
+            <l>then he <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith ſpéed,</l>
+            <l>God ſpéed quoth he thou famous flo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er,</l>
+            <l>Fair Mit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is of this homely Bower,</l>
+            <l>VVere Love and Vertue,</l>
+            <l>d<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>s i<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſweet content,</l>
+            <l>VVith <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> geſture</l>
+            <l>And model<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mild behaviour,</l>
+            <l>ſhe bod him welcome then,</l>
+            <l>She entertained him,</l>
+            <l>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aith<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> friendly manner,</l>
+            <l>and all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Gentlemen:</l>
+            <l>The Noble Marqueſs,</l>
+            <l>In <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heart felt ſuch a flame,</l>
+            <l>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch ſet his ſences at ſtrife,</l>
+            <l>Quoth he fair Maiden,</l>
+            <l>Shew me ſoon what is thy name,</l>
+            <l>I mean to make thée my VVife,</l>
+            <l>
+               <hi>Griſſel</hi> is my name quoth ſhe,</l>
+            <l>Far unfit for your degrée,</l>
+            <l>A ſilly Maiden,</l>
+            <l>and of Parents poor:</l>
+            <l>Nay <hi>Griſel</hi> thou art rich he ſaid,</l>
+            <l>A vertuous, fair, and comely Maid,</l>
+            <l>Grant me thy Love,</l>
+            <l>and I will ask no more:</l>
+            <l>At length ſhe conſented,</l>
+            <l>And being both contented,</l>
+            <l>they Married were with ſpéed:</l>
+            <l>Her Country Ruſſet</l>
+            <l>VVas changed to ſilk and velvet,</l>
+            <l>as to her ſtate agréed;</l>
+            <l>And when that ſhe</l>
+            <l>VVas trimly tired in the ſame,</l>
+            <l>her beauty ſhined moſt bright,</l>
+            <l>Far ſtaining every</l>
+            <l>Other fair and Princely Dame,</l>
+            <l>that did appear in her ſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht.</l>
+            <l>Many envying her therefore,</l>
+            <l>becauſe ſhe was of Parents poor,</l>
+            <l>And twixt her Lord and ſhe</l>
+            <l>great <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rife did raiſe:</l>
+            <l>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome ſaid this, and ſame ſaid that,</l>
+            <l>And ſome did call her b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ggers br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t</l>
+            <l>And to her Lord</l>
+            <l>they would her oft d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpiſe.</l>
+            <l>O noble Marqueſs</l>
+            <l>Quoth they why doſt thou wrong us</l>
+            <l>thus baſely for to wed:</l>
+            <l>VVho might have gotten,</l>
+            <l>An Honourable Lady,</l>
+            <l>into your Princely bed,</l>
+            <l>VVho will not now,</l>
+            <l>Your noble iſſue ſoon deride,</l>
+            <l>which ſhall hereafter be born,</l>
+            <l>That are of blood ſo baſe,</l>
+            <l>Born by the mothers ſide,</l>
+            <l>the which will bring them in ſcorn.</l>
+            <l>Put her therefore quite away,</l>
+            <l>And take to you a Lady gay,</l>
+            <l>VVherein your Lineage</l>
+            <l>may renowned be</l>
+            <l>Thus every da<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſéemed to prate,</l>
+            <l>That maliced <hi>Griſſels</hi> good eſtate.</l>
+            <l>VVho all this while</l>
+            <l>took it moſt patiently.</l>
+            <l>VVhen <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the Marqueſs</l>
+            <l>Did ſée that the were bent thus,</l>
+            <l>againſt his frithful wife,</l>
+            <l>VVhom he moſt dear<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>,</l>
+            <l>Tenderly and intirely,</l>
+            <l>he loved as his life,</l>
+            <l>Minding in ſecret</l>
+            <l>for to prove her patient heart.</l>
+            <l>Thereby her foes to diſgrace,</l>
+            <l>Thinking to ſhew her</l>
+            <l>a hard diſcourteous part.</l>
+            <l>That men might pitty her caſe,</l>
+            <l>Great with child this Lady was,</l>
+            <l>And at laſt it came to paſs,</l>
+            <l>Two goodly children,</l>
+            <l>at one birth ſhe had,</l>
+            <l>A Son and a Daughter God had ſent:</l>
+            <l>VVhich did their Mother well content,</l>
+            <l>And which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id make</l>
+            <l>their Fathers heart full glad.</l>
+            <l>Great Royal <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing</l>
+            <l>Was at theſe childrens Chriſtening,</l>
+            <l>and Princely tryumph made.</l>
+            <l>Six weeks together</l>
+            <l>All Nobles that came thither,</l>
+            <l>were entertaind and ſtaid,</l>
+            <l>And when that all this pleaſant</l>
+            <l>Sporting quite was done,</l>
+            <l>the Marqueſs a Meſſenger ſent,</l>
+            <l>For his young Daughter</l>
+            <l>And his pretty ſmiling Son,</l>
+            <l>declaring his full intent.</l>
+            <l>How ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the babes muſt murdered be</l>
+            <l>For ſo the Marqueſs did decrée.</l>
+            <l>Come let me have</l>
+            <l>the Children then he ſaid,</l>
+            <l>With that fair <hi>Griſſel</hi> wept full ſore,</l>
+            <l>She wrung her hands &amp; ſaid no more,</l>
+            <l>My Gra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious Lord</l>
+            <l>and have his will obeyd.</l>
+            <div type="part">
+               <pb facs="tcp:174402:1" rendition="simple:additions"/>
+               <head>The ſecond part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <l>SHe took the Babies,</l>
+               <l>Even from the nurſing Ladies,</l>
+               <l>Betwéen her tender arms,</l>
+               <l>She often wiſhes,</l>
+               <l>With many ſorrowful kiſſes,</l>
+               <l>that ſhe mih<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t caſe their harms.</l>
+               <l>Farwel, farwel,</l>
+               <l>A thouſand times my Children dear,</l>
+               <l>never ſhall I ſée you again,</l>
+               <l>Tis long of me</l>
+               <l>Your ſad and woful Mother here,</l>
+               <l>for whoſe ſake both moſt be ſlain,</l>
+               <l>Had I béen born of Royal race,</l>
+               <l>You might have livd in happy caſe,</l>
+               <l>But you muſt dye,</l>
+               <l>for my unworthineſs,</l>
+               <l>Come Meſſenger of Death quoth ſhe,</l>
+               <l>Take my deareſt babes to thee,</l>
+               <l>And to their Father</l>
+               <l>my complaints expreſs,</l>
+               <l>He took the children,</l>
+               <l>And to his Noble maſter,</l>
+               <l>he bore them then with ſpéed,</l>
+               <l>Who in ſecret ſent them,</l>
+               <l>Vnto a Noble Lady,</l>
+               <l>to be brought up in déed.</l>
+               <l>Then to fair <hi>Griſſel</hi>
+               </l>
+               <l>VVith a heavy heart he goes.</l>
+               <l>where ſhe ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e mildly all alone,</l>
+               <l>A pleaſant geſture,</l>
+               <l>And a lovely look ſhe ſhows,</l>
+               <l>as if no grief ſhe had known.</l>
+               <l>Quoth he my children now are ſlain,</l>
+               <l>VVhat thinks <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>air <hi>Griſſel</hi> of the ſame,</l>
+               <l>S<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>éet <hi>Griſſel</hi> now,</l>
+               <l>declare thy mind to me,</l>
+               <l>Sith you my Lord are pleaſd with it,</l>
+               <l>Poor <hi>Griſſel</hi> thinks the action fit,</l>
+               <l>Both I and mine</l>
+               <l>at your command will be.</l>
+               <l>My Nobles murmer,</l>
+               <l>Fair <hi>Griſſel</hi> at thy honour</l>
+               <l>and I no ioy can have,</l>
+               <l>Till thou be baniſht</l>
+               <l>Both from my court and preſence</l>
+               <l>as they uniuſily crave,</l>
+               <l>Thou muſt be ſcript</l>
+               <l>Out of thy ſtately garments all,</l>
+               <l>and as thou camſt to me.</l>
+               <l>In homely gray,</l>
+               <l>Inſtead of biſs and pureſt pall,</l>
+               <l>now all thy clothing muſt be</l>
+               <l>My Lady thou muſt be no more,</l>
+               <l>Nor I thy Lord which grieves meſore</l>
+               <l>The pooreſt life</l>
+               <l>muſt now content thy mind,</l>
+               <l>A groat to thée I muſt not give,</l>
+               <l>Thée to maintain whilſt I do live,</l>
+               <l>Againſt my <hi>Griſſel</hi>
+               </l>
+               <l>ſuch great foes I find.</l>
+               <l>VVhen gentle <hi>Griſſel</hi>
+               </l>
+               <l>Did hear theſe woful tydings,</l>
+               <l>the tears ſtood in her eys,</l>
+               <l>Nothing ſhe anſwered,</l>
+               <l>No words of diſcontentment,</l>
+               <l>did from her lips ariſe,</l>
+               <l>Her Velvet Gown</l>
+               <l>Moſt patiently ſhe ſtripped off,</l>
+               <l>her kirtle of ſilk with the ſame,</l>
+               <l>Her Ruſſet Gown</l>
+               <l>was brought again with many aſcoff,</l>
+               <l>to bear them her ſelf ſhe did frame;</l>
+               <l>VVhen ſhe was dreſt in this array,</l>
+               <l>And ready was to part away,</l>
+               <l>God ſend long life</l>
+               <l>unto my Lord quoth ſhe.</l>
+               <l>Let no offence be found in this,</l>
+               <l>To give me Lord a parting kiſs</l>
+               <l>VVith watry Eys</l>
+               <l>farewel my Dear ſaid ſhe.</l>
+               <l>From Princely Pallacs,</l>
+               <l>Vnto her fathers Cotta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>poor <hi>Griſſel</hi> now is gone,</l>
+               <l>Full <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>xtéen winters,</l>
+               <l>She lived there contented</l>
+               <l>no wrong ſhe thought upon,</l>
+               <l>And at that time through</l>
+               <l>All the Land the ſpéeches went</l>
+               <l>the Marqueſs ſhould married be.</l>
+               <l>Vnto a Noble Lady great</l>
+               <l>And of high Deſceut</l>
+               <l>and to the ſame all Parties did a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rée,</l>
+               <l>The Marqueſs ſent for <hi>Griſſel</hi> fair</l>
+               <l>The brides bed-chamber to prepare,</l>
+               <l>That nothing therein</l>
+               <l>might be found awry.</l>
+               <l>The bride was with her brother come,</l>
+               <l>VVhich was great ioy to all and ſome,</l>
+               <l>
+                  <hi>But Griſſel</hi> took all this</l>
+               <l>moſt patiently,</l>
+               <l>And in the morning</l>
+               <l>VVhen as they ſhould be wedded,</l>
+               <l>her patience there was tryed,</l>
+               <l>
+                  <hi>Griſſel</hi> was charmed,</l>
+               <l>Her ſel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in friendly manner</l>
+               <l>for to attend the bride,</l>
+               <l>Moſt willing</l>
+               <l>She gave conſent to do the ſame</l>
+               <l>the bride in bravery was breſt,</l>
+               <l>And preſently</l>
+               <l>The Noble Marqueſs thither came</l>
+               <l>with all his Lords at his requeſt.</l>
+               <l>O <hi>Griſſel</hi> I will ask of thee,</l>
+               <l>If to this match thou wilt agrée,</l>
+               <l>Methinks thy looks,</l>
+               <l>are waxed wondrous coy,</l>
+               <l>VVith that they all began to ſmile,</l>
+               <l>And <hi>Griſſel</hi> ſhe replyd the white</l>
+               <l>God ſend Lord Marqueſs</l>
+               <l>many years of ioy.</l>
+               <l>The Marqueſs was moved,</l>
+               <l>To ſee his beſt beloved</l>
+               <l>thus patient in diſtreſs.</l>
+               <l>He ſtept unto her</l>
+               <l>And by the hand he took her</l>
+               <l>theſe words he did expreſs.</l>
+               <l>Thou art the bride</l>
+               <l>And all the brides I mean to have,</l>
+               <l>theſe two thine own children be.</l>
+               <l>The youthful Lady,</l>
+               <l>On her knées did bleſſing crave,</l>
+               <l>her brother as well as ſhe,</l>
+               <l>And you that envyed her eſtate,</l>
+               <l>Whom I have made my choſen Mate,</l>
+               <l>Now bluſh for ſhame,</l>
+               <l>and honour vertu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us life,</l>
+               <l>The Chronicles of laſting Fame,</l>
+               <l>Shall ever more extoll the name,</l>
+               <l>Of patient <hi>Griſſel</hi>
+               </l>
+               <l>my moſt conſtant wife:</l>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for F. Coles, T. Vere, and W. Gibertſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
